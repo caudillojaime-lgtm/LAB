@@ -50,3 +50,8 @@ Fue diseñada para usarse en dispositivos móviles y web.
 
 ## 📜 Licencia
 Este proyecto se comparte bajo licencia MIT. Puedes usarlo y adaptarlo libremente.
+carpetas = [
+    'mi-appsheet-proyecto/docs/capturas',
+    'mi-appsheet-proyecto/data',
+    'mi-appsheet-proyecto/app-definition'
+]
